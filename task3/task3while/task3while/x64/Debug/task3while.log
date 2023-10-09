@@ -1,0 +1,3 @@
+﻿  task3while.cpp
+C:\Users\ipz231_soa\Desktop\lab8\task3while\task3while\task3while.cpp(18,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  task3while.vcxproj -> C:\Users\ipz231_soa\Desktop\lab8\task3while\x64\Debug\task3while.exe
